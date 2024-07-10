@@ -40,3 +40,14 @@ public class PatternExample {
          Pattern(70,'A');
     }
 }
+
+
+/*output
+
+A B C D E F E D C B A
+A B C D E   E D C B A
+A B C D       D C B A
+A B C           C B A
+A B               B A
+A                   A
+ */
