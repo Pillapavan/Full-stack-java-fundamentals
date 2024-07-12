@@ -37,7 +37,7 @@ public class PatternExample {
         }
     }
     public static void main(String[] args) {
-         Pattern(70,'A');
+         PatternExample.Pattern(70,'A');
     }
 }
 

@@ -1,4 +1,5 @@
-package com.java.loops;public class ArmStrongNumber {
+package com.java.loops;
+public class ArmStrongNumber {
     static void ArmStrong(int Value){
         int Length=String.valueOf(Value).length();
         int ReverseNum=0;
@@ -18,6 +19,6 @@ package com.java.loops;public class ArmStrongNumber {
     }
 
     public static void main(String[] args) {
-        ArmStrong(454);
+       ArmStrongNumber.ArmStrong(454);
     }
 }

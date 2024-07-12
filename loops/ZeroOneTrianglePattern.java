@@ -17,7 +17,7 @@ public class ZeroOneTrianglePattern {
     }
 
     public static void main(String[] args) {
-        ZeroOnePattern(4);
+        ZeroOneTrianglePattern.ZeroOnePattern(4);
     }
 }
 

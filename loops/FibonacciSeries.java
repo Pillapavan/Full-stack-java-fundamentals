@@ -17,7 +17,7 @@ public class FibonacciSeries {
 
     public static void main(String[] args) {
         // invoke the method
-        Fibonacci();
+       FibonacciSeries.Fibonacci();
     }
 }
 

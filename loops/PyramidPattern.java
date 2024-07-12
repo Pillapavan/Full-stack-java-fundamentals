@@ -18,7 +18,7 @@ public class PyramidPattern {
     }
 
     public static void main(String[] args) {
-        Pyramid(3,65);
+        PyramidPattern.Pyramid(3,65);
     }
 }
  /* output
